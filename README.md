@@ -54,7 +54,7 @@ Aqua Zuri empowers communities to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/aqua-zuri.git
+  [ git clone https://github.com/your-username/aqua-zuri.git](https://github.com/PLP-WebTechnologies/final-project-and-deployment-aquazuri.com.git)
    ```
 2. Open `index.html` in your browser.
 3. Explore water sources, register, or sign in to access advanced features.
